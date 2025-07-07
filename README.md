@@ -1,7 +1,7 @@
 <h1 align="center">NullSh3ll</h1>
 <p align="center"><i>Build deeper. Automate smarter.</i></p>
 
-------
+------------
 
 ### 👋 About Me
 
@@ -16,7 +16,7 @@ I specialize in:
 
 Always open to freelance work, tech collabs, and interesting projects.
 
-------
+------------
 
 ### ⚙️ Tech Stack
 
@@ -25,7 +25,7 @@ Always open to freelance work, tech collabs, and interesting projects.
 - **Web scraping**, **automation**
 - (OSINT, cybersecurity basics — for smarter, safer solutions)
 
-------
+------------
 
 ### 🚀 Projects
 
@@ -33,7 +33,7 @@ Always open to freelance work, tech collabs, and interesting projects.
 - `vpn-prober` — *(in progress)*  
 - `whoami-bot` — *(Telegram/Discord automation)*
 
-------
+------------
 
 ### 💡 Philosophy
 
@@ -41,13 +41,13 @@ Always open to freelance work, tech collabs, and interesting projects.
 > I only trust my code.  
 > Built different. Think deeper. Build smarter.
 
-------
+------------
 
 ### 📫 Contact
 
 - Telegram: [@NullSh3ll](https://t.me/NullSh3ll) *(optional)*
 - Email: [your@email.here] *(if you want)*
 
-------
+------------
 
 <p align="center"><i>Let your code do the talking.</i></p>
