@@ -46,7 +46,7 @@ Always open to freelance work, tech collabs, and interesting projects.
 ### 📫 Contact
 
 - Telegram: [@NullSh3ll](https://t.me/NullSh3ll) *(optional)*
-- Email: [your@email.here] *(if you want)*
+- Email: [nullsh3ll@gmail.com] *(if you want)*
 
 ------------
 
