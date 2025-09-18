@@ -45,7 +45,7 @@ Always open to freelance work, tech collabs, and interesting projects.
 
 ### 📫 Contact
 
-- Telegram: [@NullSh3ll](https://t.me/NullSh3ll) *(optional)*
+- Telegram: [@RedSh3ll](https://t.me/RedSh3ll) *(optional)*
 - Email: [nullsh3ll@gmail.com] *(if you want)*
 
 ------------
